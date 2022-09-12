@@ -2,8 +2,8 @@
 
 <div align="center">
   <img align="center" width="200" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
-  <h1 align="center">Hola👋, soy Fernando Panduro</h1>
-  <h3>Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.</h3>
+  <h1 align="center">Hola👋, soy ✨Fernando Panduro✨</h1>
+  <h3>Soy más que un simple desarrollador. Utilizo todos mis conocimientos y habilidades para construir algo impresionante. ¡Echa un vistazo por aqui y descubrelo!</h3>
 </div>
 
 ---
@@ -34,15 +34,11 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 Subo videos sobre Desarrollo Web en [Fernando Panduro](https://www.youtube.com/channel/UC1100w5ZoAIw38flYh_nOYg)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 🌱 Estoy aprendiendo sobre **React.js, Blockchain, Web3 y Solidity**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
-
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
-
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌐 Website [fernandopanduro](https://fernandopanduro.netlify.app/)
   
    ##
  
