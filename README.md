@@ -6,9 +6,17 @@
   <h3>Soy más que un simple desarrollador. Utilizo todos mis conocimientos y habilidades para construir algo impresionante. ¡Echa un vistazo por aqui y descubrelo!</h3>
 </div>
 
+<br/>
+
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UC1100w5ZoAIw38flYh_nOYg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fernandpha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-panduro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
 ---
 
-### 📊 My Stats :
+### 📊 Estadisticas :
 
 <div align="center">
   <a href="https://github.com/fernandopanduro">
@@ -32,7 +40,19 @@
   <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-### 👨‍💻 About Me :
+---  
+
+### 🚀 Contribuciones :
+  
+  <div align="center">
+    
+  ![Snake animation](https://github.com/fernandopanduro/fernandopanduro/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
+  
+---
+  
+###  👨‍💻 Sobre Mi :
 
 - 📝 Subo videos sobre Desarrollo Web en [Fernando Panduro](https://www.youtube.com/channel/UC1100w5ZoAIw38flYh_nOYg)
 
@@ -40,13 +60,3 @@
 
 - 🌐 Website [fernandopanduro](https://fernandopanduro.netlify.app/)
   
-   ##
- 
-<div align="center"> 
-  <a href="https://www.youtube.com/channel/UC1100w5ZoAIw38flYh_nOYg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/fernandpha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-panduro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  ![Snake animation](https://github.com/fernandopanduro/fernandopanduro/blob/output/github-contribution-grid-snake.svg)
-  
-<div/>
