@@ -2,7 +2,7 @@
 
 <div align="center">
   <img align="center" width="200" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
-  <h1 align="center">Hola👋, soy ✨Fernando Panduro✨</h1>
+  <h1 align="center">Hola <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, soy ✨Fernando Panduro✨</h1>
   <h3>Soy más que un simple desarrollador. Utilizo todos mis conocimientos y habilidades para construir algo impresionante. ¡Echa un vistazo por aqui y descubrelo!</h3>
 </div>
 
