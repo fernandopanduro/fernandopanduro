@@ -1,5 +1,9 @@
 ### Hola👋, soy Fernando Panduro
 
+<div aling="center">
+</img width="200" src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif">
+</div>
+
 <div align="center">
   <a href="https://github.com/fernandopanduro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandopanduro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
