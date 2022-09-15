@@ -26,6 +26,15 @@
   
 </div>
 
+<p align="center">
+  <a href="https://github.com/fernandopanduro">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=fernandopanduro&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</a>
+</p>
+  
 ---
 
 ### 🚀 Contribuciones :
