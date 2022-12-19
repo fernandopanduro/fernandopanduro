@@ -29,17 +29,21 @@
 
 ### 👨‍💻 Proyectos :
   
+  <div align="center">
+  
   <a href='https://github.com/fernandopanduro/llantera' target='_blank'>
-    <img width='33%' src='https://user-images.githubusercontent.com/92656447/208330080-98e9cebb-09a1-4abf-99de-70e64ab86577.jpg' />
+    <img width='45%' src='https://user-images.githubusercontent.com/92656447/208330080-98e9cebb-09a1-4abf-99de-70e64ab86577.jpg' />
   </a>
   
   <a href='https://github.com/fernandopanduro/Eorum' target='_blank'>
-    <img width='33%' src='https://user-images.githubusercontent.com/92656447/208330779-7b14de5a-1dc9-4f17-a1de-4b2320076b67.jpg' />
+    <img width='45%' src='https://user-images.githubusercontent.com/92656447/208330779-7b14de5a-1dc9-4f17-a1de-4b2320076b67.jpg' />
   </a>
 
   <a href='https://github.com/fernandopanduro/Fernando-Panduro-Website' target='_blank'>
-    <img width='33%' src='https://user-images.githubusercontent.com/92656447/208330925-d551be7c-ee34-4ceb-a937-b06645ceea66.jpg' />
+    <img width='90%' src='https://user-images.githubusercontent.com/92656447/208330925-d551be7c-ee34-4ceb-a937-b06645ceea66.jpg' />
   </a>
+    
+   </div>
 
   
 ---
