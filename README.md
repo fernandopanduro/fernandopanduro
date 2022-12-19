@@ -27,6 +27,23 @@
   
 ---
 
+### 👨‍💻 Proyectos :
+  
+  <a href='https://github.com/fernandopanduro/llantera' target='_blank'>
+    <img width='33%' src='https://user-images.githubusercontent.com/92656447/208330080-98e9cebb-09a1-4abf-99de-70e64ab86577.jpg' />
+  </a>
+  
+  <a href='https://github.com/fernandopanduro/Eorum' target='_blank'>
+    <img width='33%' src='https://user-images.githubusercontent.com/92656447/208330779-7b14de5a-1dc9-4f17-a1de-4b2320076b67.jpg' />
+  </a>
+
+  <a href='https://github.com/fernandopanduro/Fernando-Panduro-Website' target='_blank'>
+    <img width='33%' src='https://user-images.githubusercontent.com/92656447/208330925-d551be7c-ee34-4ceb-a937-b06645ceea66.jpg' />
+  </a>
+
+  
+---
+
 ### 🚀 Contribuciones :
   
   <div align="center">
@@ -39,12 +56,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />        
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />        
-  <img align="center" alt="Rafa-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
   <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
